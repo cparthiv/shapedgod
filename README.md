@@ -6,15 +6,6 @@ Hello there! I am Alpha, a dev. I like to automate things.
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheAlphaDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-<!--START_SECTION:activity-->
-1. 
-2. 
-3. 
-4. 
-5. 
-<!--END_SECTION:activity-->
 <!--
 **TheAlphaDev/thealphadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
