@@ -1,9 +1,9 @@
 # AlphaDev
-Hello there! I am Alpha, a dev. I like to automate things.
+Hello there! I am Polygone, a dev. Coding addict. Currently going to school.
 
 
-![AlphaDev's github stats](https://github-readme-stats.vercel.app/api?username=TheAlphaDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheAlphaDev)](https://github.com/ryo-ma/github-profile-trophy)
+![Polygonee's github stats](https://github-readme-stats.vercel.app/api?username=polygonee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![trophy](https://github-profile-trophy.vercel.app/?username=polygonee)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
